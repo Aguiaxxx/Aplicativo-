@@ -8,7 +8,7 @@ DIR1="~/ProjetoX"
 COMANDO1="source tt.txt"
 
 DIR2="~/ProjetoX/noVNC"
-COMANDO2="./launch.sh"
+COMANDO2="./utils/novnc_proxy --vnc localhost:5901"
 
 DIR3="/outro/diretorio"
 COMANDO3="htop"
