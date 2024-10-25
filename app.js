@@ -4,10 +4,10 @@
 SESSION_NAME="minha_sessao"
 
 # Diretórios e comandos a serem executados
-DIR1="/caminho/para/ProjetoX"
-COMANDO1="python3 app.py"
+DIR1="~/ProjetoX"
+COMANDO1="source tt.txt"
 
-DIR2="/caminho/para/noVNC"
+DIR2="~/ProjetoX/noVNC"
 COMANDO2="./launch.sh"
 
 DIR3="/outro/diretorio"
